@@ -3,9 +3,9 @@
 body { margin: 0; }
 
 /* GLOBAL COLORS */
-body { color: rgba(0, 0, 0, 0.8); }
-a { color: rgba(0, 102, 204, 1); }
-a:hover { color: rgba(0, 51, 153, 1); }
+body { color: hex(#ff2a2a); }
+a { color: hex(#18191d); }
+a:hover { color: rgb(255, 255, 255); }
 
 /* GLOBAL TYPOGRAPHY */
 body {
